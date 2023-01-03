@@ -8,18 +8,28 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmorhy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-
-#
-<!-- Linguagens -->
-<div align="center"><br>
-    <img align="center" alt="HTML" style="border-radius: 20px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> ●
-    <img align="center" alt="CSS" style="border-radius: 20px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> ●
-    <img align="center" alt="JAVASCRIPT" style="border-radius: 20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> ●
-    <img align="center" alt="JAVA" style="border-radius: 20px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> ●
-    <img align="center" alt="SPRING" style="border-radius: 20px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  
+<!-- STAKS -->
+<div style="display: inline_block; text-decoration: none" align="center"><br>
+  <img alt="HTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img alt="CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
+  <img alt="JAVASCRIPT" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="JAVA" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="SPRING" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img alt="GIT" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> 
+  <img alt="POSTGRESQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />   
 </div>
+ 
+#
 
-<br>
+<!-- INFO -->
+<div align="center" style="border-radius: 20px"><br>
+  <a alt="WHATSAPP" href="https://web.whatsapp.com/send?phone=5584999378115" target="_blank" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
+  <a alt="TELEGRAM" href="https://t.me/andrezamorhy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a alt="EMAIL" href="mailto:contact.anmorhy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a alt="LINKEDIN" href="https://www.linkedin.com/in/andrezamorhy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a alt="INSTAGRAM" href="https://www.instagram.com/anmorhy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 <div align="center">
   
   ![Snake animation](https://github.com/anmorhy/anmorhy/blob/output/github-contribution-grid-snake.svg)
